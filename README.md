@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on creative web projects with animations and interactive UI.<br><br>👯 I’m looking to collaborate on frontend designs, HTML/CSS animations, and beginner-friendly tech projects.<br><br>🤝 I’m looking for help with improving performance, clean design structure, and learning advanced concepts step by step.<br><br>🌱 I’m currently learning modern web development, problem-solving, and new programming techniques.<br><br>💬 Ask me about web design basics, simple animations, and tech ideas.<br><br>⚡ Fun fact: I enjoy turning simple ideas into visually creative projects.
+I’m an Information Technology undergraduate and developer who enjoys turning complex ideas into structured, scalable software. My approach centers on building systems that are not only technically strong but also practical, maintainable, and user-focused.<br><br>🚀 **What I’m Working Toward:** Growing as a developer while pursuing a B.Tech in IT, with a strong interest in modern architectures and efficient application ecosystems.<br>🧠 **How I Think:** I value clean logic, thoughtful design, and solutions that solve real problems instead of just showcasing theory.<br>⚙️ **What I Build:** From inventory management tools to billing systems and AI-inspired concepts, my work focuses on reliability, performance, and clarity.<br>🛠 **Preferred Stack:** Flutter for intuitive interfaces, Firebase for rapid integration, and scalable backend patterns that support long-term growth.<br><br>For me, development is about engineering trust — creating software that feels simple to use, strong under pressure, and ready for real-world challenges.<br>
+
+
+
 
 
 ## 🌐 Socials:
