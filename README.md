@@ -1,6 +1,5 @@
 ## Hi there 👋
 # 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working on creative web projects with animations and interactive UI.<br><br>👯 I’m looking to collaborate on frontend designs, HTML/CSS animations, and beginner-friendly tech projects.<br><br>🤝 I’m looking for help with improving performance, clean design structure, and learning advanced concepts step by step.<br><br>🌱 I’m currently learning modern web development, problem-solving, and new programming techniques.<br><br>💬 Ask me about web design basics, simple animations, and tech ideas.<br><br>⚡ Fun fact: I enjoy turning simple ideas into visually creative projects.<br>
 
 
