@@ -12,6 +12,9 @@
 [![GitHub Streak](https://github-readme-streak-stats-nu-snowy.vercel.app?user=tharun27102006&theme=tokyonight-duo)](https://git.io/streak-stats)
 ---
 ### Thanks for Visiting my GitHub Profile!
+<p align="center">
+<img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)
 
