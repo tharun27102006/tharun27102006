@@ -14,7 +14,7 @@
 ### Thanks for Visiting my GitHub Profile!
 ---
 <p align="center">
-<img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
+[![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)]
 </p>
 
 
