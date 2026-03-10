@@ -13,5 +13,5 @@
 ---
 ### Thanks for Visiting my GitHub Profile!
 ---
-[![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)]
+![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)
 
