@@ -17,6 +17,5 @@
 <img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=tha&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
