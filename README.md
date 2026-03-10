@@ -16,12 +16,4 @@
 <p align="center">
 <img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=tasiugefwiype&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->n ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
