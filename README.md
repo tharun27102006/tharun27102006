@@ -17,7 +17,3 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)]
 </p>
 
-
-<p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)
-</p>
