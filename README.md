@@ -16,5 +16,5 @@
 <img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=tharun27102006&abbreviated=true)
+![Profile Views]
 
