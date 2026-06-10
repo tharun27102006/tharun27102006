@@ -18,6 +18,4 @@
 <p align="center">
 <img src="https://github.com/tharun27102006/tharun27102006/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
----
-![Profile Views]
 
